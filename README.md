@@ -1,4 +1,4 @@
-# cobra-event
+# cobra-MT (cobra Multitenancy Sample)
 
 ## Build Setup
 
